@@ -27,7 +27,7 @@ This is a Real Estate Website project (“HouseHunt360”) built to showcase pro
 ---
 
 ## 📁 Project Structure
-
+I have used Inline CSS mostly in this project , It will look more conjusted but its clean to use.
 
 ---
 
