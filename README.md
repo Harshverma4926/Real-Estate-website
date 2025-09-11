@@ -28,3 +28,17 @@ This is a Real Estate Website project (“HouseHunt360”) built to showcase pro
 
 ## 📁 Project Structure
 
+
+---
+
+## ⚙️ Setup & Use
+
+To run/view this project:
+
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/Harshverma4926/Real-Estate-website.git
+
+Navigate into Folder
+cd Real-Estate-website
